@@ -1,0 +1,143 @@
+*{
+  padding: 0;
+  margin: 0;
+  color : #525252;
+}
+.abel{
+  font-family: "Abel";
+  padding: 0em 7em;
+  margin-top: 2em;
+}
+.oswald{
+  font-family: "Oswald";
+}
+.bolder{
+  font-weight: bold;
+}
+.italic{
+  font-style: italic;
+}
+.bgBlue{
+  background-image:url(images/fond.png);
+}
+h1{
+  color:white;
+  font-size: 4em;
+}
+h2{
+  font-size: 1.8em;
+  padding: 1em 0 1em 0;
+}
+nav{
+  background-color: #4A91D2;
+  box-shadow: inset 10px 10px 50px #76CBFA;
+
+}
+nav>div{
+  line-height: 5em;
+}
+nav div a{
+  color: white;
+  text-decoration: none;
+}
+.imageprincipale{
+  width: 100%;
+  border : 2em white solid;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+.taillepolice{
+  font-size: 45px;
+  margin: 0px;
+  padding: 0;
+}
+.imagebleue{
+  background-image: url(images/header.png);
+  padding: 0 2em 2em 2em;
+}
+.fondgris{
+  background-image: url(images/fond-article.png);
+}
+.paddingSection{
+  padding-left: 2em;
+  padding-right: 2em;
+}
+#punique > a{
+  text-decoration: underline;
+  color:  #FF3D00;
+}
+#punique{
+  padding : 1em 0 0.5em 0;
+}
+.padding{
+  padding: 1em;
+}
+.width{
+  width: 100%;
+}
+.boutonorange{
+  border: none;
+  background-color: #FF0000;
+  border-radius: 5px;
+  padding: 0.4em 1em;
+  color: white;
+  box-shadow: inset 30px 50px 50px #FF3D00;
+
+}
+.couleurorange{
+  color:  #FF3D00;
+}
+
+.divmargin{
+  margin-bottom: 4em;
+}
+.divpadding{
+  padding: 1em 0em;
+  border-bottom: 1px solid #E6E6E6;
+}
+.divpadding > p{
+  margin-top: 1em;
+}
+.divphoto{
+  margin-bottom: 2em;
+}
+.h3{
+  margin-bottom: 1.5em;
+}
+.divmilieu{
+  margin-top: 4em;
+}
+.partiedroite ul li{
+  list-style-image: url(images/fleche.png);
+  border-top: 1px solid #E6E6E6;
+  padding: 0.5em 0;
+}
+.partiedroite li a{
+
+  color: #525252;
+
+}
+.border{
+  border-top: 1px solid #666;
+  border-bottom: 1px solid #666;
+}
+.lastdiv{
+  background-image: url("images/footer.png");
+  margin-top: 3em;
+  padding-bottom: 3em;
+}
+#bordernone{
+  border: none;
+}
+blockquote{
+  background-image: url(images/citation.jpg);
+}
+
+footer{
+  background-image: url("images/bas-de-page.png");
+  padding: 1em 0;
+}
+footer a{
+  text-decoration: underline;
+  color: #2A2A2A;
+}
