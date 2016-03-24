@@ -3,6 +3,7 @@
   margin: 0;
   color : #525252;
 }
+
 .abel{
   font-family: "Abel";
   padding: 0em 7em;
@@ -39,6 +40,9 @@ nav>div{
 nav div a{
   color: white;
   text-decoration: none;
+}
+nav div a:hover{
+    color:#2959B8;
 }
 .imageprincipale{
   width: 100%;
@@ -83,7 +87,17 @@ nav div a{
   color: white;
   box-shadow: inset 30px 50px 50px #FF3D00;
 
+
+
 }
+.boutonorange:hover{
+    color: #871E00;
+
+}
+a:hover{
+    text-decoration: none;
+}
+
 .couleurorange{
   color:  #FF3D00;
 }
